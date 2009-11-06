@@ -1,3 +1,5 @@
+
+$:.unshift(File.dirname(__FILE__))
 require 'rubygems'
 require 'oauth'
 require 'oauth_client/client'
